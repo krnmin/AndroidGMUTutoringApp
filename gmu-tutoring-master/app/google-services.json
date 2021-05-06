@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "503126224988",
+    "firebase_url": "https://gmututoring-96055.firebaseio.com",
+    "project_id": "gmututoring-96055",
+    "storage_bucket": "gmututoring-96055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503126224988:android:8fd97b201ace4d6cd0b699",
+        "android_client_info": {
+          "package_name": "com.cs321.gmututoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503126224988-fn68pb5kl9b5frkrtrmr0ir4ve64hebt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cs321.gmututoring",
+            "certificate_hash": "a1f88f58ed2e9e037a7a2b6f3296f88654efc706"
+          }
+        },
+        {
+          "client_id": "503126224988-gppf0e5jp1d2m3pheosne1mm6piue2vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cs321.gmututoring",
+            "certificate_hash": "61be5d704ac9f2b1cd683e112bf4d3b79e08e91b"
+          }
+        },
+        {
+          "client_id": "503126224988-5vh4o5h1er3g2e1g2kjqbfhsc7c5brln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8KOcLz5pSVKvbxbt4bVYeGa4uqBnrbCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503126224988-5vh4o5h1er3g2e1g2kjqbfhsc7c5brln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

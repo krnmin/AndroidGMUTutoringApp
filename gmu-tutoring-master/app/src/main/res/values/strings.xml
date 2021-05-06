@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GMUTutoring</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="emailRequest">Enter your email address</string>
+    <string name="passwordRequest">Enter your password</string>
+    <string name="cPasswordRequest">Re-enter your password</string>
+    <string name="registerButton">Register</string>
+    <string name="signUpButton">Sign Up</string>
+    <string name="signInButton">Sign In</string>
+    <string name="nAlreadySignedUp">Not signed up? Click here to sign up.</string>
+    <string name="alreadySignedUp">Already signed up? Click here to login.</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_help">Help</string>
+    <string name="courseRequest">Enter a CS Course # (i.e. 367)</string>
+    <string name="findTutor">Find Tutor</string>
+    <string name="btProfile">Back to Profile</string>
+    <string name="print_all_classes_they_will_tutor_in_their_user_class">Print all classes They will tutor in their user class</string>
+    <string name="edit_classes">Edit Classes</string>
+    <string name="pulls_a_list_of_the_classes_above_separated_by_commas">Pulls a list of the classes above separated by commas</string>
+    <string name="classes_you_can_tutor">Classes you can tutor</string>
+    <string name="csId">CS</string>
+    <string name="course_ex_321">Course # (EX:321)</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="sign_out">SIGN OUT</string>
+</resources>

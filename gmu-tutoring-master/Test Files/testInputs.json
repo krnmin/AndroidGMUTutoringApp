@@ -1,0 +1,10 @@
+{
+	"UserInputTest" :{
+		"emailsValid":["Sarah3@gmu.edu", "JSmith@gmu.edu", "ellen@gmu.edu", "brown7@gmu.edu", "Kreynolds@gmu.edu"],
+		"emailsInvalid":["amy@gmail.com", "cookies@yahoo.com", "Brian4@verizon.net", "3lilly@aol.com", "bluePanda@"],
+		"courseValid":["321", "330", "455", "110", "112", "211", "483", "306"],
+		"coursesInvalid":["test", "", "?", ".", "34?"],
+		"PasswordValid":[{"apples321": "apples321"}, {"PinkZebra101!": "PinkZebra101!"}, {"3flower3": "3flower3"}],
+		"PasswordInvalid":[{"Orange23": "orange22"}, {"Elephant7": ""}, {"": ""}]
+	}
+}
